@@ -93,6 +93,7 @@ div.my-information{
     justify-content: center;
     margin: auto;
     text-align: center;
+    padding-bottom: 3rem;
 }
 .skill-information{
     padding: 2rem;
